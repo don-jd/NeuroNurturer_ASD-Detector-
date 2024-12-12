@@ -1,0 +1,9 @@
+averaging_predictor.py  code  line numer 95,    setting path for model etc...
+test folder should contain image to test 
+
+
+run code in python 3.8.10
+
+code to run 
+python averaging_predictor.py
+
